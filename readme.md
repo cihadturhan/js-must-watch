@@ -29,13 +29,13 @@
 1. [Mathias Bynens: **JavaScript ♥ Unicode**](https://vimeo.com/76597193) [26:12]
 
 ## 2012
-1. [Ryan Sandor Richards: **Garbage Collection & Heap Management**](http://vimeo.com/45140516) [32:57]
+1. [Ryan Sandor Richards: **Garbage Collection & Heap Management**](http://vimeo.com/45140516) [32:57] **✓**
 1. Addy Osmani: **Scaling Your JavaScript Applications**
 	* [Part 1](http://vimeo.com/35924671) [22:38]
 	* [Part 2](http://vimeo.com/35924733) [15:41]
 	* [Part 3](http://vimeo.com/35990666) [33:32]
 1. [John-David Dalton: **Lo-Dash**](https://www.youtube.com/watch?v=dpPy4f_SeEk) [25:08]
-1. [Gary Bernhardt: **WAT**](https://www.destroyallsoftware.com/talks/wat) [4:17]
+1. [Gary Bernhardt: **WAT**](https://www.destroyallsoftware.com/talks/wat) [4:17] **✓**
 1. [Angus Croll: **Break all the rules**](https://www.youtube.com/watch?v=MFtijdklZDo) [31:29]
 1. [Nicholas Zakas: **Maintainable JavaScript**](https://www.youtube.com/watch?v=c-kav7Tf834) [47:04]
 
