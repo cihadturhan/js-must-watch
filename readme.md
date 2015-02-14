@@ -24,7 +24,7 @@
 1. [Pete Hunt: **React: Rethinking best practices**](https://www.youtube.com/watch?v=x7cQ3mrcKaY) [29:31]
 1. [Martin Kleppe: **1024+ Seconds of JS Wizardry**](https://www.youtube.com/watch?v=RTxtiLp1C8Y) [31:01]**✓**
 1. [Yehuda Katz: **A tale of two MVC's**](https://www.youtube.com/watch?v=s1dhXamEAKQ) [31:06]**✓**
-1. [Vyacheslav Egorov: **Performance and Benchmarking**](https://www.youtube.com/watch?v=65-RbBwZQdU) [25:41]
+1. [Vyacheslav Egorov: **Performance and Benchmarking**](https://www.youtube.com/watch?v=65-RbBwZQdU) [25:41]**✓**
 1. [Brendan Eich: **JavaScript at 18: Legal to Gamble**](https://www.youtube.com/watch?v=qrf9ONmtXbM) [25:44]
 1. [Mathias Bynens: **JavaScript ♥ Unicode**](https://vimeo.com/76597193) [26:12] **✓**
 
